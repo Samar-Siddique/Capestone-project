@@ -1,0 +1,51 @@
+/* AboutUs Section */
+
+.head{
+    height: 200px;
+    text-align: center;
+    background-image:url(../public/assets/about-logo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.head h1{
+    color:#ffff;
+    padding-top: 70px;
+}
+.head1{
+    margin-top: 50px;
+    text-align: center;
+    color: rgb(13, 133, 219);
+}
+.head2{
+    margin-top: 50px;
+    margin-left: 40px;
+    color: rgb(13, 133, 219);
+}
+.p1{
+    margin-left: 40px;
+    margin-right: 50px;
+}
+.p2{
+    margin-top: 40px;
+    text-align: center;
+    line-height: 1px;
+}
+.head3{
+    margin-top: 50px;
+    text-align: center;
+    color: rgb(13, 133, 219);
+}
+.choose-us{
+    width: 100%;
+    text-align: center;
+}
+.col-wrapper{
+    width: 90%;
+    margin: auto;
+    padding-top: 50px;
+}
+.choose-col{
+    width: 33.33%;
+    float: left;
+    margin-bottom: 30px;
+}
